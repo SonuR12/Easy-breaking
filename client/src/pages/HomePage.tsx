@@ -7,7 +7,7 @@ export default function HomePage() {
   return (
     <div className="font-sans bg-gray-50 min-h-screen">
       <Navbar />
-      <div className="pt-16">
+      <div className="">
         <Home />
         <About />
         <FeaturedEvents />
